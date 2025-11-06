@@ -16,8 +16,8 @@ const Footer = () => {
             <div className="space-y-6">
               <div>
                 <img 
-                  src="/lovable-uploads/treffer-logo.png" 
-                  alt="Treffer Heizöl" 
+                  src="/lovable-uploads/nw-heizoel-logo.png" 
+                  alt="NW-Heizöl" 
                   className="h-24 w-auto mb-4"
                 />
                 <p className="text-gray-300 text-sm leading-relaxed">
