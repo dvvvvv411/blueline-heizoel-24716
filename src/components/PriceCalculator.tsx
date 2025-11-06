@@ -47,7 +47,7 @@ const PriceCalculator = () => {
     }
 
     const orderData: OrderData = {
-      shop_id: "7d866bce-7912-4436-8234-28806736ebfd",
+      shop_id: "87463c8e-59c0-4429-82fc-7cce18d58461",
       product: fuelType === "standard" ? "standard_heizoel" : "premium_heizoel",
       liters: liters,
       price_per_liter: prices[fuelType as keyof typeof prices],
