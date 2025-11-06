@@ -2,22 +2,21 @@
 export const companyStructuredData = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Treffer Heizöl",
-  "alternateName": "Treffer GmbH",
-  "url": "https://treffer-heizoel.de",
+  "name": "NW-Heizöl",
+  "alternateName": "NW Trading und Service GmbH",
+  "url": "https://nw-heizoel.de",
   "logo": "/lovable-uploads/treffer-logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+49-221-29291090",
     "contactType": "customer service",
-    "email": "info@treffer-heizoel.de",
+    "email": "info@nw-heizoel.de",
     "availableLanguage": "German"
   },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Anton-Jaumann-Str. 1",
-    "addressLocality": "Buchdorf",
-    "postalCode": "86675",
+    "streetAddress": "Gundhofstr. 9",
+    "addressLocality": "Frankfurt a. Main",
+    "postalCode": "60528",
     "addressCountry": "DE"
   },
   "foundingDate": "1975",
@@ -43,22 +42,21 @@ export const companyStructuredData = {
 export const localBusinessStructuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Treffer Heizöl",
+  "name": "NW-Heizöl",
   "image": "/lovable-uploads/treffer-logo.png",
-  "@id": "https://treffer-heizoel.de",
-  "url": "https://treffer-heizoel.de",
-  "telephone": "+49-221-29291090",
+  "@id": "https://nw-heizoel.de",
+  "url": "https://nw-heizoel.de",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Anton-Jaumann-Str. 1",
-    "addressLocality": "Buchdorf",
-    "postalCode": "86675",
+    "streetAddress": "Gundhofstr. 9",
+    "addressLocality": "Frankfurt a. Main",
+    "postalCode": "60528",
     "addressCountry": "DE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 48.6734,
-    "longitude": 10.8652
+    "latitude": 50.1109,
+    "longitude": 8.6821
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",

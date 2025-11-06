@@ -10,10 +10,10 @@ const UeberUns = () => {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Über uns & Service | Treffer Heizöl | Premium Heizöl-Händler"
-        description="Treffer Heizöl – Ihr vertrauensvoller Partner für Heizöl. Innovatives Unternehmen aus Bayern mit über 100.000 zufriedenen Kunden deutschlandweit."
-        keywords="Treffer Heizöl, Bayern, Buchdorf, Heizöl Unternehmen, Premium Heizöl"
-        canonicalUrl="https://treffer-heizoel.de/ueber-uns"
+        title="Über uns & Service | NW-Heizöl | Premium Heizöl-Händler"
+        description="NW-Heizöl – Ihr vertrauensvoller Partner für Heizöl. Innovatives Unternehmen aus Frankfurt am Main mit über 100.000 zufriedenen Kunden deutschlandweit."
+        keywords="NW-Heizöl, Frankfurt am Main, Hessen, Heizöl Unternehmen, Premium Heizöl"
+        canonicalUrl="https://nw-heizoel.de/ueber-uns"
       />
       <Header />
       
@@ -31,7 +31,7 @@ const UeberUns = () => {
             </h1>
             
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Ihr vertrauensvoller Partner für Heizöl in Bayern und ganz Deutschland. 
+              Ihr vertrauensvoller Partner für Heizöl in Frankfurt am Main und ganz Deutschland. 
               Digitaler Vorreiter mit Tradition und modernster Technik.
             </p>
           </div>
@@ -42,9 +42,9 @@ const UeberUns = () => {
       <PageSection className="py-24" background="warm">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Treffer Heizöl</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">NW-Heizöl</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Ihre vertrauensvolle Adresse für Premium-Heizöl aus Bayern
+              Ihre vertrauensvolle Adresse für Premium-Heizöl aus Frankfurt am Main
             </p>
           </div>
           
@@ -88,7 +88,7 @@ const UeberUns = () => {
                   </div>
                   <div className="flex justify-between items-center p-4 bg-primary/5 rounded-xl border border-primary/20">
                     <span className="text-gray-600 font-medium">Standort:</span>
-                    <span className="font-bold text-gray-900">Buchdorf, Bayern</span>
+                    <span className="font-bold text-gray-900">Frankfurt a. Main, Hessen</span>
                   </div>
                   <div className="flex justify-between items-center p-4 bg-gray-50 rounded-xl">
                     <span className="text-gray-600 font-medium">Liefergebiet:</span>
@@ -273,7 +273,7 @@ const UeberUns = () => {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Kontakt & Standort</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Ihre Ansprechpartner in Bayern - wir sind für Sie da
+              Ihre Ansprechpartner in Frankfurt am Main - wir sind für Sie da
             </p>
           </div>
           
@@ -290,17 +290,16 @@ const UeberUns = () => {
                 
                 <div className="space-y-6 text-center">
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
-                    <p className="font-bold text-lg text-gray-900 mb-2">Treffer Heizöl (Treffer GmbH)</p>
+                    <p className="font-bold text-lg text-gray-900 mb-2">NW-Heizöl (NW Trading und Service GmbH)</p>
                     <p className="text-gray-700">
-                      Anton-Jaumann-Str. 1<br/>
-                      86675 Buchdorf
+                      Gundhofstr. 9<br/>
+                      60528 Frankfurt a. Main
                     </p>
                   </div>
                   
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
                     <p className="text-gray-700">
-                      <strong className="text-primary">E-Mail:</strong> info@treffer-heizoel.de<br/>
-                      <strong className="text-primary">Telefon:</strong> 0221 29291090
+                      <strong className="text-primary">E-Mail:</strong> info@nw-heizoel.de
                     </p>
                   </div>
                 </div>
@@ -319,10 +318,10 @@ const UeberUns = () => {
                 
                 <div className="space-y-4">
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">Amtsgericht:</strong> Augsburg HRB 322</p>
+                    <p className="text-gray-700"><strong className="text-primary">Amtsgericht:</strong> Frankfurt am Main HRB 139562</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
-                    <p className="text-gray-700"><strong className="text-primary">USt-ID:</strong> DE427997071</p>
+                    <p className="text-gray-700"><strong className="text-primary">USt-ID:</strong> DE427997532</p>
                   </div>
                   <div className="p-3 bg-white/60 rounded-xl border border-white/40">
                     <p className="text-gray-700"><strong className="text-primary">Gründung:</strong> 1975</p>

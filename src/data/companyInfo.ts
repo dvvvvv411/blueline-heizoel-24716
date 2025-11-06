@@ -1,24 +1,24 @@
 export const companyInfo = {
   // Brand Information
-  brandName: "Treffer Heizöl",
-  legalName: "Treffer GmbH",
+  brandName: "NW-Heizöl",
+  legalName: "NW Trading und Service GmbH",
   
   // Address
-  street: "Anton-Jaumann-Str. 1",
-  postalCode: "86675",
-  city: "Buchdorf",
+  street: "Gundhofstr. 9",
+  postalCode: "60528",
+  city: "Frankfurt a. Main",
   country: "DE",
   
   // Contact Information
-  email: "info@treffer-heizoel.de",
-  phoneDisplay: "0221 29291090",
-  phoneIntl: "+49 221 29291090",
-  phoneTel: "+4922129291090",
+  email: "info@nw-heizoel.de",
+  phoneDisplay: "",
+  phoneIntl: "",
+  phoneTel: "",
   
   // Legal Information
-  court: "Amtsgericht Augsburg",
-  hrb: "HRB 322",
-  vatId: "DE427997071",
+  court: "Amtsgericht Frankfurt am Main",
+  hrb: "HRB 139562",
+  vatId: "DE427997532",
   ceo: "",
   
   // Business Information
@@ -28,17 +28,17 @@ export const companyInfo = {
   // Assets
   logo: "/lovable-uploads/treffer-logo.png",
   
-  // Geographic Coordinates (Buchdorf, near Anton-Jaumann-Str. 1)
+  // Geographic Coordinates (Frankfurt, Gundhofstr. 9)
   geo: {
-    lat: 48.6734,
-    lng: 10.8652
+    lat: 50.1109,
+    lng: 8.6821
   },
   
   // Website
-  website: "https://treffer-heizoel.de",
+  website: "https://nw-heizoel.de",
   
   // Full address string
-  fullAddress: "Anton-Jaumann-Str. 1, 86675 Buchdorf",
+  fullAddress: "Gundhofstr. 9, 60528 Frankfurt a. Main",
   
   // Company description
   shortDescription: "Ihr vertrauensvoller Partner für hochwertiges Heizöl. Deutschlandweite Premium-Lieferung ab 70 Cent pro Liter.",
